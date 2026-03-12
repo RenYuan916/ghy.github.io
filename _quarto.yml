@@ -1,12 +1,6 @@
 project:
   type: website
 
-format:
-  html:
-    theme: cosmo
-    css: styles.css1  # 关键：全局加载样式
-    toc: true
-    toc-location: right
 
 
 website:
@@ -45,6 +39,8 @@ format:
     toc: true
     toc-location: right
     include-in-header: |
+
+  
       <style>
         /* 导航栏悬停效果 */
         .navbar-nav .nav-link:hover {
