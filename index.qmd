@@ -1,6 +1,6 @@
 
 ---
-title: ""
+title: "首页 | Soil Science & Data"
 format:
   html:
     toc: true
@@ -39,7 +39,14 @@ format:
           </style>
 ---
 
-
+---
+title: ""
+format:
+  html:
+    toc: true 
+    toc-location: right
+    css: styles.css1
+---
 
 ::: {.section-card}
 # 👤个人简介

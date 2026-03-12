@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About | Soil Science & Data",
+    "section": "",
+    "text": "龚慧岩\n\n\n本科：河南农业大学 · 资源与环境学院 · 农业资源与环境 硕士（在读）：华中农业大学 · 资源与环境学院 · 土壤学\n\n\n\n\n\n\n\n\n🛠️ 方法与工具\n\n\n语言：R (tidyverse, ggplot2) | Python (pandas, matplotlib, scikit-learn)\n文档与可复现：Quarto | Markdown | LaTeX\n协作与版本控制：Git | GitHub\n科研软件：VASP | Origin | 实验室分析平台\n\n\n\n\n\n\n\n🔍 正在探索\n\n\n\n深入学习 Materials Studio 分子建模技术，构建土壤矿物-有机质-水界面的原子级模型\n\n\n结合 密度泛函理论（DFT） 与分子动力学模拟，揭示污染物在土壤界面的吸附/解吸机制\n\n\n将计算化学结果与实验室表征耦合，量化土壤界面反应的自由能与动力学参数\n\n\n开发基于分子模拟的土壤环境风险预测模型，为污染土壤修复提供微观机理支撑\n\n\n探索开放科学与可重复研究实践，让科研更透明、可复用（如Quarto工作流、版本控制）\n\n\n\n\n\n\n\n\n🤝 合作/交流\n\n\n欢迎对土壤界面过程、环境数据科学、碳循环模拟感兴趣的老师同学交流。\n邮箱：15893368941@163.com\nGitHub：RenYuan916\n\n\n\n\n\n“把复杂的数据变成清晰的故事”",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "关于我"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "👤个人简介",
+    "section": "",
+    "text": "龚慧岩",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  },
+  {
+    "objectID": "index.html#教育背景",
+    "href": "index.html#教育背景",
+    "title": "👤个人简介",
+    "section": "🎓 教育背景",
+    "text": "🎓 教育背景\n\n本科 | 农业资源与环境\n河南农业大学 | 2021.09 – 2025.06\n\n毕业论文：《不同氮肥种类对玉米农艺性状及产量的影响》\n\n硕士研究生 | 资源与环境学院 土壤学\n华中农业大学 | 2025.09 – 至今\n\n主要研究方向为土壤界面过程与环境研究\n\n掌握 R、Python 等数据处理与可视化工具\n熟练VASP、Gaussian等分子模拟软件以及Materials Studio等分子建模软件",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  },
+  {
+    "objectID": "index.html#技能概览",
+    "href": "index.html#技能概览",
+    "title": "👤个人简介",
+    "section": "💻 技能概览",
+    "text": "💻 技能概览\n\n编程语言：R（tidyverse、ggplot2）、Python（pandas、matplotlib）\n数据与工具：Quarto、Markdown、Git、GitHub\n科研/专业：土壤样品分析、土壤界面分子模拟、环境数据统计分析",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  },
+  {
+    "objectID": "index.html#研究兴趣-项目方向",
+    "href": "index.html#研究兴趣-项目方向",
+    "title": "👤个人简介",
+    "section": "✨研究兴趣 & 项目方向",
+    "text": "✨研究兴趣 & 项目方向\n\n土壤界面分子模拟（Soil interface molecular simulation）\n土壤污染物微界面行为与修复（Microscale behavior of soil pollutants and remediation）\n土壤碳库模型与分子机制的耦合研究（Coupling of soil carbon model and molecular mechanism）\n开放科学与可重复研究实践（Open science and reproducible research practice）",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  },
+  {
+    "objectID": "index.html#最近计划",
+    "href": "index.html#最近计划",
+    "title": "👤个人简介",
+    "section": "📒最近计划",
+    "text": "📒最近计划\n\n用 Quarto 写作与发布科研笔记，沉淀模型思路与可视化模板。\n基于 R/Python 的碳库模型小练习：从数据清洗、拟合到可视化汇报。\n整理实验室土壤分析 SOP，并用 Markdown/Quarto 生成可共享的文档。\n技能提升：深入学习 Materials Studio 分子建模，强化计算化学在土壤界面研究中的应用能力。",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  },
+  {
+    "objectID": "index.html#联系方式",
+    "href": "index.html#联系方式",
+    "title": "👤个人简介",
+    "section": "☎️联系方式",
+    "text": "☎️联系方式\n\n📧 邮箱：15893368941@163.com\n💻 GitHub：https://github.com/RenYuan916",
+    "crumbs": [
+      "🏠 首页",
+      "个人简介",
+      "首页"
+    ]
+  }
+]

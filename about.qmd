@@ -1,5 +1,5 @@
 ---
-title: "关于我 | Soil Science & Data"
+title: "About |   Soil Science & Data"
 format:
   html:
     include-in-header:
