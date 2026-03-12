@@ -1,6 +1,5 @@
-project:
+output-dir: docs  # 新增这行project:
   type: website
-nano _quarto.yml
 
 website:
   title: "Soil Science & Data"
