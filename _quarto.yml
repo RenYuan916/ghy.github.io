@@ -33,6 +33,6 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css1  # 全局样式文件
+    css: styles.css1
     toc: true
     toc-location: right
