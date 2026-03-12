@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "我的科研网站"
+  title: "我的网站"
   navbar:
     left:
       - text: 首页
@@ -13,3 +13,4 @@ website:
       - icon: github
         href: "https://github.com/RenYuan916"
         aria-label: GitHub
+
