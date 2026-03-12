@@ -1,0 +1,99 @@
+
+---
+title: ""
+format:
+  html:
+    toc: true
+    toc-location: right
+    css: styles.css1
+    include-in-header:
+      - text: |
+          <style>
+            /* 全局渐变背景 */
+            body {
+              margin: 0;
+              padding: 0;
+              min-height: 100vh;
+              background: linear-gradient(135deg, #f0f7ff 0%, #e6f0ff 50%, #d4e8ff 100%);
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            }
+            /* 卡片半透与毛玻璃效果 */
+            .section-card {
+              background: rgba(255, 255, 255, 0.88);
+              backdrop-filter: blur(12px);
+              border-radius: 16px;
+              box-shadow: 0 8px 32px rgba(0, 0, 0, 0.06);
+              padding: 1.5rem;
+              margin: 1.5rem auto;
+              max-width: 800px;
+              border: 1px solid rgba(255, 255, 255, 0.2);
+            }
+            /* 右侧目录栏半透效果 */
+            #quarto-toc {
+              background: rgba(255, 255, 255, 0.8);
+              backdrop-filter: blur(8px);
+              border-radius: 12px;
+              padding: 1rem;
+              box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+            }
+          </style>
+---
+
+
+
+::: {.section-card}
+# 👤个人简介
+
+![](profile.jpg){width="200" style="border-radius:50%; display: block; margin: 20px auto;"}
+
+ <p style="text-align:center; font-style:30px； italic; color: #2c85d4;">龚慧岩</p>
+:::
+
+::: {.section-card}
+## 🎓 教育背景
+
+- **本科 | 农业资源与环境**  
+  河南农业大学 | 2021.09 – 2025.06
+
+  - 毕业论文：《不同氮肥种类对玉米农艺性状及产量的影响》
+
+- **硕士研究生 | 资源与环境学院 土壤学**  
+  华中农业大学 | 2025.09 – 至今  
+  - 主要研究方向为土壤界面过程与环境研究  
+  - 掌握 R、Python 等数据处理与可视化工具
+  - 熟练VASP、Gaussian等分子模拟软件以及Materials Studio等分子建模软件
+:::
+
+
+::: {.section-card}
+## 💻 技能概览
+- **编程语言**：R（tidyverse、ggplot2）、Python（pandas、matplotlib）
+- **数据与工具**：Quarto、Markdown、Git、GitHub
+- **科研/专业**：土壤样品分析、土壤界面分子模拟、环境数据统计分析
+:::
+
+::: {.section-card}
+## ✨研究兴趣 & 项目方向
+- 土壤界面分子模拟（Soil interface molecular simulation）
+- 土壤污染物微界面行为与修复（Microscale behavior of soil pollutants and remediation）
+- 土壤碳库模型与分子机制的耦合研究（Coupling of soil carbon model and molecular mechanism）
+- 开放科学与可重复研究实践（Open science and reproducible research practice）
+
+:::
+
+::: {.section-card}
+## 📒最近计划
+- 用 Quarto 写作与发布科研笔记，沉淀模型思路与可视化模板。
+- 基于 R/Python 的碳库模型小练习：从数据清洗、拟合到可视化汇报。
+- 整理实验室土壤分析 SOP，并用 Markdown/Quarto 生成可共享的文档。
+- 技能提升：深入学习 Materials Studio 分子建模，强化计算化学在土壤界面研究中的应用能力。
+:::
+
+::: {.section-card}
+## ☎️联系方式
+- 📧 邮箱：<15893368941@163.com>
+- 💻 GitHub：<https://github.com/RenYuan916>
+:::
+
+> “记录、复现、分享” —— 让科研更透明，让思考可被复用。
+

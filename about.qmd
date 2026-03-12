@@ -1,0 +1,61 @@
+---
+title: "关于我 | Soil Science & Data"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="styles.css1">
+    toc: false
+    page-navigation: false
+---
+
+
+
+::: {.section-card}
+
+![](profile.jpg){width="100" style="border-radius:50%; display:block; margin:0 auto; border: 2px solid #2c85d4;"}
+
+<p style="text-align:center; font-size:1.4rem; font-weight:600; color:#2c3e50; margin:1rem 0 0.5rem 0;">龚慧岩</p>
+<p style="text-align:center; font-size:1.05rem; color:#2c85d4; font-weight:500; margin:0 0 0.8rem 0;">本科：河南农业大学 · 资源与环境学院 · 农业资源与环境<br>
+硕士（在读）：华中农业大学 · 资源与环境学院 · 土壤学</p>
+<p style="text-align:center; font-size:0.95rem; color:#666; line-height:1.6; margin:0;">
+</p>
+:::
+
+
+::: {.section-card}
+<!-- 方法与工具 -->
+<div class="card">
+  <div class="card-title">🛠️ 方法与工具</div>
+  - **语言**：R (tidyverse, ggplot2) | Python (pandas, matplotlib, scikit-learn)
+  - **文档与可复现**：Quarto | Markdown | LaTeX
+  - **协作与版本控制**：Git | GitHub
+  - **科研软件**：VASP | Origin | 实验室分析平台
+</div>
+:::
+
+::: {.section-card}
+<!-- 正在探索 -->
+<div class="card">
+  <div class="card-title">🔍 正在探索</div>
+  <ul style="line-height:1.8; color:#333; padding-left:1.2rem; margin:0.5rem 0 0 0;">
+    <li>深入学习 <strong>Materials Studio</strong> 分子建模技术，构建土壤矿物-有机质-水界面的原子级模型</li>
+    <li>结合 <strong>密度泛函理论（DFT）</strong> 与分子动力学模拟，揭示污染物在土壤界面的吸附/解吸机制</li>
+    <li>将计算化学结果与实验室表征耦合，量化土壤界面反应的自由能与动力学参数</li>
+    <li>开发基于分子模拟的土壤环境风险预测模型，为污染土壤修复提供微观机理支撑</li>
+    <li>探索开放科学与可重复研究实践，让科研更透明、可复用（如Quarto工作流、版本控制）</li>
+  </ul>
+</div>
+:::
+
+::: {.section-card}
+<!-- 合作/交流 -->
+<div class="card">
+  <div class="card-title">🤝 合作/交流</div>
+  - 欢迎对**土壤界面过程、环境数据科学、碳循环模拟**感兴趣的老师同学交流。
+  - 邮箱：<a href="mailto:15893368941@163.com">15893368941@163.com</a>
+  - GitHub：<a href="https://github.com/RenYuan916" target="_blank">RenYuan916</a>
+</div>
+:::
+<!-- 页脚标语 -->
+<p style="text-align: center; font-size: 1.15rem; font-weight: 600;">“把复杂的数据变成清晰的故事”</p>
